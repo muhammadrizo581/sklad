@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Logs / temp
+*.log
+*.tmp
+
+# Node (agar kelajakda ishlatilsa)
+node_modules/
+dist/
+
+# Muhit sozlamalari (shaxsiy)
+.env
+.env.local
